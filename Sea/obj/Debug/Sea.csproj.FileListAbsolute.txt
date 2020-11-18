@@ -1,0 +1,11 @@
+C:\Users\Миша\Documents\testseabattle\Sea\obj\Debug\Sea.csprojAssemblyReference.cache
+C:\Users\Миша\Documents\testseabattle\Sea\obj\Debug\Sea.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Documents\testseabattle\Sea\bin\Debug\Sea.dll
+C:\Users\Миша\Documents\testseabattle\Sea\bin\Debug\Sea.pdb
+C:\Users\Миша\Documents\testseabattle\Sea\bin\Debug\Cell.dll
+C:\Users\Миша\Documents\testseabattle\Sea\bin\Debug\Ship.dll
+C:\Users\Миша\Documents\testseabattle\Sea\bin\Debug\Cell.pdb
+C:\Users\Миша\Documents\testseabattle\Sea\bin\Debug\Ship.pdb
+C:\Users\Миша\Documents\testseabattle\Sea\obj\Debug\Sea.csproj.CopyComplete
+C:\Users\Миша\Documents\testseabattle\Sea\obj\Debug\Sea.dll
+C:\Users\Миша\Documents\testseabattle\Sea\obj\Debug\Sea.pdb

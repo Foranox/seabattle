@@ -1,0 +1,5 @@
+C:\Users\Миша\Documents\testseabattle\Ship\bin\Debug\Ship.dll
+C:\Users\Миша\Documents\testseabattle\Ship\bin\Debug\Ship.pdb
+C:\Users\Миша\Documents\testseabattle\Ship\obj\Debug\Ship.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Documents\testseabattle\Ship\obj\Debug\Ship.dll
+C:\Users\Миша\Documents\testseabattle\Ship\obj\Debug\Ship.pdb

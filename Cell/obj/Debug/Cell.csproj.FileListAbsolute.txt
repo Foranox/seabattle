@@ -1,0 +1,9 @@
+C:\Users\Миша\Documents\testseabattle\Cell\bin\Debug\Cell.dll
+C:\Users\Миша\Documents\testseabattle\Cell\bin\Debug\Cell.pdb
+C:\Users\Миша\Documents\testseabattle\Cell\obj\Debug\Cell.csprojAssemblyReference.cache
+C:\Users\Миша\Documents\testseabattle\Cell\obj\Debug\Cell.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Documents\testseabattle\Cell\obj\Debug\Cell.dll
+C:\Users\Миша\Documents\testseabattle\Cell\obj\Debug\Cell.pdb
+C:\Users\Миша\Documents\testseabattle\Cell\bin\Debug\Ship.dll
+C:\Users\Миша\Documents\testseabattle\Cell\bin\Debug\Ship.pdb
+C:\Users\Миша\Documents\testseabattle\Cell\obj\Debug\Cell.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\Users\Миша\Documents\testseabattle\Enemy\bin\Debug\Enemy.dll
+C:\Users\Миша\Documents\testseabattle\Enemy\bin\Debug\Enemy.pdb
+C:\Users\Миша\Documents\testseabattle\Enemy\bin\Debug\Cell.dll
+C:\Users\Миша\Documents\testseabattle\Enemy\bin\Debug\Sea.dll
+C:\Users\Миша\Documents\testseabattle\Enemy\bin\Debug\Ship.dll
+C:\Users\Миша\Documents\testseabattle\Enemy\bin\Debug\Cell.pdb
+C:\Users\Миша\Documents\testseabattle\Enemy\bin\Debug\Sea.pdb
+C:\Users\Миша\Documents\testseabattle\Enemy\bin\Debug\Ship.pdb
+C:\Users\Миша\Documents\testseabattle\Enemy\obj\Debug\Enemy.csprojAssemblyReference.cache
+C:\Users\Миша\Documents\testseabattle\Enemy\obj\Debug\Enemy.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Documents\testseabattle\Enemy\obj\Debug\Enemy.csproj.CopyComplete
+C:\Users\Миша\Documents\testseabattle\Enemy\obj\Debug\Enemy.dll
+C:\Users\Миша\Documents\testseabattle\Enemy\obj\Debug\Enemy.pdb
